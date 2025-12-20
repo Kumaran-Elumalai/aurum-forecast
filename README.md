@@ -1,4 +1,4 @@
-# Gold-Price-Forecasting 
+# Gold-Price-Forecasting  
 Business Objective:  
     
 Data provided is related to gold prices. The objective is to understand the
